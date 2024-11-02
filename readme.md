@@ -1,1 +1,1 @@
-data structures and algorithm in cpp
+data structures and algorithms in cpp
